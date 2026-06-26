@@ -218,3 +218,4 @@ __marimo__/
 .streamlit/secrets.toml
 candidate1.txt
 check_disconnected_pairs.txt
+candidates.txt
