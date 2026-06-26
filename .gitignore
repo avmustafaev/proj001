@@ -216,3 +216,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+candidate1.txt
+check_disconnected_pairs.txt
